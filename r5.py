@@ -1,12 +1,4 @@
 # RETO 06 EQUIPO 1
-"""
-->Karem Melissa Agudelo Ojeda
-->Miguel vasquez
-->Juan David González Carrasquilla
-->Paola Alexandra Daza Lopez
-->Carolina Bedoya Rodriguez
-->Sandra María Restrepo Sánchez
-"""
 #[“MDT546”,” KFC456”, “RTE123”,” TFG345”,” FGH789”,” SDR789”,” LMJ567”,” BHJ789”, “TBT516”,” “ASF476”]
 #[“MDT546”,” KFC456”] RETIRAR.
 #[“TBT516”,” ASF476”] INGRESAR VEHICULOS GRANDES.
